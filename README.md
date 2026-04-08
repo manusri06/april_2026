@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1162-as-far-from-land-as-possible](https://github.com/manusri06/april_2026/tree/master/1162-as-far-from-land-as-possible) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/manusri06/april_2026/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
