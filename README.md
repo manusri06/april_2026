@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manusri06/april_2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [1020-number-of-enclaves](https://github.com/manusri06/april_2026/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/manusri06/april_2026/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manusri06/april_2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [1020-number-of-enclaves](https://github.com/manusri06/april_2026/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manusri06/april_2026/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/manusri06/april_2026/tree/master/0328-odd-even-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
