@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/manusri06/april_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/manusri06/april_2026/tree/master/1162-as-far-from-land-as-possible) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/manusri06/april_2026/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1162-as-far-from-land-as-possible](https://github.com/manusri06/april_2026/tree/master/1162-as-far-from-land-as-possible) |
+| [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -56,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manusri06/april_2026/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/manusri06/april_2026/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manusri06/april_2026/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/manusri06/april_2026/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
