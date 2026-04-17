@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1162-as-far-from-land-as-possible](https://github.com/manusri06/april_2026/tree/master/1162-as-far-from-land-as-possible) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manusri06/april_2026/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/manusri06/april_2026/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
@@ -65,5 +67,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/manusri06/april_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manusri06/april_2026/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/manusri06/april_2026/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/manusri06/april_2026/tree/master/2050-parallel-courses-iii) |
+## Hash Table
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## String
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
