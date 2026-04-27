@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manusri06/april_2026/tree/master/0001-two-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manusri06/april_2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [1020-number-of-enclaves](https://github.com/manusri06/april_2026/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manusri06/april_2026/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manusri06/april_2026/tree/master/0001-two-sum) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/manusri06/april_2026/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## String
 |  |
