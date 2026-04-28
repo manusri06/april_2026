@@ -1,8 +1,33 @@
-from collections import defaultdict
+from collections import defaultdict,deque
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
 
-        indeg = defaultdict(list)
+        indeg = [0]*numCourses
+        adj = defaultdict(list)
+
+        for i, j in prerequisites:
+            adj[i].append(j)
+            indeg[j] += 1
+        
+        q = deque()
+        for i in range(numCourses):
+            if indeg[i] == 0:
+                q.append(i)
+        conn = [set() for _ in range(numCourses)]
+        while q:
+            node = q.popleft()
+            
+            for nei in adj[node]:
+                conn[nei].add(node)
+                conn[nei].update(conn[node])
+
+                indeg[nei] -= 1
+                if indeg[nei] == 0:
+                    q.append(nei)
+
+        return [i in conn[j] for i, j in queries]
+
+        """ indeg = defaultdict(list)
         for i, j in prerequisites:
             indeg[i].append(j)
 
@@ -25,7 +50,7 @@ class Solution:
         for i, j in queries:
             ans.append(dfs(i, j))
         
-        return ans
+        return ans """
 
         
 
