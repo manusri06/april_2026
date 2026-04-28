@@ -1,27 +1,26 @@
-from collections import deque, defaultdict
+from collections import defaultdict, deque
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        V = len(graph)
-        outdegree = [0]*V
-        g = defaultdict(list)
-        
-        for u in range(V):
-            outdegree[u] = len(graph[u])
-            for v in graph[u]:
-                g[v].append(u)
+        n = len(graph)
+        outdeg = [0]*n
+        adj = defaultdict(list)
 
+        for i in range(n):
+            outdeg[i] = len(graph[i])
+            for j in graph[i]:
+                adj[j].append(i)    
+        ans = []
         q = deque()
-        for i in range(V):
-            if outdegree[i] == 0:
+        for i in range(n):
+            if outdeg[i] == 0:
                 q.append(i)
-        result = []
+
         while q:
             node = q.popleft()
-            result.append(node)
-            for nei in g[node]:
-                outdegree[nei] -= 1
-                if outdegree[nei] == 0:
+            ans.append(node)
+            for nei in adj[node]:
+                outdeg[nei] -= 1
+                if outdeg[nei] == 0:
                     q.append(nei)
-
-        return sorted(result)
-
+        return sorted(ans)
+        
